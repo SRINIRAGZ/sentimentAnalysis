@@ -8,6 +8,7 @@ How to Run:
 4. On opening the colab notebook choose the necessary resources used for compute (CPU or GPU). I had used L4 GPU
 5. RunAll - it will prompt for Github token to clone repo into the cluster.
 6. Once done everything runs cell by cell
+7. Prerun notebook available with the name "sentimentAnalysis_withoutputs.ipynb"
 
 Data Schema:
 Engagements Table
