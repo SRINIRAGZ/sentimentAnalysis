@@ -1,6 +1,14 @@
 # sentimentAnalysis
 Analysis of Social media sentiments for a company's prducts
 
+How to Run:
+1. open sentimentAnalysis jupyter notebook
+2. It has a link to google colab in top (in case of running the code)
+3. For viewing, the notebook can be viewed directly in github. It has all the explanations and analysis done in the result section
+4. On opening the colab notebook choose the necessary resources used for compute (CPU or GPU). I had used L4 GPU
+5. RunAll - it will prompt for Github token to clone repo into the cluster.
+6. Once done everything runs cell by cell
+
 Data Schema:
 Engagements Table
 timestamp object
