@@ -39,3 +39,12 @@ AI tools used:
 4. Clustering model - 'all-mpnet-base-v2'
 5. Sentiment Analysis RoBERTa model- "cardiffnlp/twitter-roberta-base-sentiment"
 6. Summarizer model - "facebook/bart-large-cnn"
+
+Future work:
+1. When more features are available, we can actually analyze the data by product category, product id etc.
+2. Obtain comments and views from different social media platforms
+3. use a supervised learning set to train the sentiments and fine tune the language models for it to predict specific sentiments
+4. Give a crisp summary of the user comments by product, media, sentiment etc.,
+5. detect anomalies and if comments available by user unique identifier, can filter or analyze repeated comments
+6. Multimodel handling is not done here in this project. We can extend the analysis to text, pictures, GIF's ,videos etc.
+7. Can extend the analysis across languages
